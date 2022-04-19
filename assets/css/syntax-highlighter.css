@@ -1,0 +1,21 @@
+.nuxt-content-highlight {
+      padding:1.5rem;
+        background:lightblue;
+  }
+  .nuxt-content-highlight .filename {
+        font-weight: bold;
+        font-size:3rem;
+      color:darkgreen;
+  }
+
+  .link{
+      font-weight: bold;
+  }
+  .link :hover{
+      text-decoration: underline;
+  }
+  .nextPrevFlex{
+        padding:2rem 0.5rem;
+        display:flex;
+        justify-content: space-between;
+  }
